@@ -1,6 +1,6 @@
 # Power BI DAX Showcase
 
-A curated collection of production DAX measures extracted directly from two real Power BI models — a **SaaS Metrics Dashboard** and a **Vendor Quality Scorecard**. Each measure is annotated to explain the pattern, why it's non-trivial, and what DAX concept it demonstrates.
+A curated collection of DAX measures from two Power BI models I built — a **SaaS Metrics Dashboard** and a **Vendor Quality Scorecard**. Each measure is annotated to explain the pattern, why it's non-trivial, and what DAX concept it demonstrates.
 
 ![DAX](https://img.shields.io/badge/Language-DAX-yellow) ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811) ![Models](https://img.shields.io/badge/Models-2-blue)
 
@@ -249,4 +249,4 @@ IF(
 
 ---
 
-*Extracted live from Power BI Desktop via MCP · Built by [Guilbert Maglasang](https://github.com/gmaglasang) · [Portfolio](https://gmaglasang.github.io)*
+*Built by [Guilbert Maglasang](https://github.com/gmaglasang) · [Portfolio](https://gmaglasang.github.io)*
